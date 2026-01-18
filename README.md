@@ -40,4 +40,4 @@ Como parte del módulo de optimización, se aplicaron las siguientes estrategias
 * **Herramientas:** MySQL Workbench, Excel (para limpieza de datos preliminar).
 
 ---
-*Autor: José | Data Foundations Program*
+*Autor: José Morales - Grupo 1 | Data Foundations Program*
